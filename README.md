@@ -23,3 +23,12 @@ To build the game and run it:
     5. Heirarchical transformations used to create an opening plant door which provides the player access between the two areas
 
 - There is much more incorporated into the game, but the main aspects are listed above and the rest can be viewed and analyzed when playing the game itself
+
+# Game Screenshots
+![SCREENSHOT 1](/screenshots/Screenshot_20251210_153550.png)
+
+![SCREENSHOT 2](/screenshots/Screenshot_20251210_153641.png)
+
+![SCREENSHOT 3](/screenshots/Screenshot_20251210_153818.png)
+
+![SCREENSHOT 4](/screenshots/Screenshot_20251210_153843.png)
